@@ -115,7 +115,7 @@ app.post("/disconnectowncall", async (req, resp) => {
 const io = socketIo(server, {
   cors: {
     // origin: "http://localhost:3000",
-    origin: "http://reactapp1pr.s3-website.us-east-2.amazonaws.com",
+    origin: "https://dynotutors.com",
     methods: ["GET", "POST"],
   },
 });
