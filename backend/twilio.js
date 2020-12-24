@@ -8,7 +8,7 @@ class twiliocls {
   accountSid = "ACa7006f2ee45e087722928914867f0545";
   verify = "VA2943f86ce186c2bf53a47a0c6c4f144a";
   outgoingApplicationSid = "APcbec71d4833edb4239a051dbc883961e";
-  serverUrl = "https://hot-lizard-29.loca.lt";
+  serverUrl = "http://3.137.208.204:4000";
 
   clientobj;
   constructor() {
